@@ -36,14 +36,27 @@ change **Title*** from **Your name's PortFolio** to **Your Name** in **index.htm
 4.) change **Social Media handle links** with your **Social Media Handle**
   
   <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img3.png">
-       
-       
+  
+5.) change **======= Hero Section =======** with your info
+
+<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img4.png" >
+
+6.) change *======= About Section =======* with following information
+i) **Date of Birth**                             iv) **Home City**
+ii) **Contact Number**                            v) **Your Age**
+iii) **Website:**                                vi) **Your Degree**
+
+<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img5.png">
+
+7.) In **======= Skills Section =======** change language according to your skills
+
+<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img5.png">
               
 # Resources 
 
 To learn more about these Resources you can Refer to some of these articles written by Me:-
 
-https://sites.google.com/view/geeky-traveller/computer-vision/face-detection
+https://sites.google.com/view/geeky-traveller/
 
 ### Made with ❤️by Vaibhav Hariramani
 #### About me
