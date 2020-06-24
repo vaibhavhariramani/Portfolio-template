@@ -35,11 +35,11 @@ change **Title*** from **Your name's PortFolio** to **Your Name** in **index.htm
 
 4.) change **Social Media handle links** with your **Social Media Handle**
   
-  <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img3.png" width="450"/>
+  <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img3.png" width="750"/>
   
 5.) change **======= Hero Section =======** with your info
 
-<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img4.png" width="450"/>
+<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img4.png" >
 
 6.) change *======= About Section =======* with following information
 i) **Date of Birth**_____________________________iv) **Home City**
