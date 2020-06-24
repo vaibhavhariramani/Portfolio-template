@@ -31,7 +31,8 @@ change **Title*** from **Your name's PortFolio** to **Your Name** in **index.htm
 
 <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img2.png" width="450"/>
 
-3.) In **<body>** change <h1> **Your Name** to **Name of Yours**
+3.) In **body** change h1 **Your Name** to **Name of Yours**
+
 4.) change **Social Media handle links** with your **Social Media Handle**
   
   <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img3.png">
