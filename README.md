@@ -8,7 +8,7 @@ You can Create Your Portfolio Website with
 
 2.) Type a name for your repository and an optional description. If you're creating a user or organization site, your repository must be named <user>.github.io or <organization>.github.io. For more information, see "[About GitHub Pages.](https://help.github.com/en/articles/about-github-pages#types-of-github-pages-sites)"
   
-  <img src="https://help.github.com/assets/images/help/pages/create-repository-name-pages.png" width="250">
+  <img src="https://help.github.com/assets/images/help/pages/create-repository-name-pages.png" width="350">
   
 3.) Choose a repository visbility. For more information, see "[About repository visibility.](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-repository-visibility)"
 
