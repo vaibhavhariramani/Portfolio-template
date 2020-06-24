@@ -35,18 +35,18 @@ change **Title*** from **Your name's PortFolio** to **Your Name** in **index.htm
 
 4.) change **Social Media handle links** with your **Social Media Handle**
   
-  <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img3.png">
+  <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img3.png" width="450"/>
   
 5.) change **======= Hero Section =======** with your info
 
-<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img4.png" >
+<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img4.png" width="450"/>
 
 6.) change *======= About Section =======* with following information
-i) **Date of Birth**                             iv) **Home City**
-ii) **Contact Number**                            v) **Your Age**
-iii) **Website:**                                vi) **Your Degree**
+i) **Date of Birth**_____________________________iv) **Home City**
+ii) **Contact Number**____________________________v) **Your Age**
+iii) **Website:**________________________________vi) **Your Degree**
 
-<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img5.png">
+<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img5.png" width="450"/>
 
 7.) In **======= Skills Section =======** change language according to your skills
 
