@@ -1,5 +1,5 @@
 # Create & Host a Portfolio in 10 minutes with Github pages!
-You can Create Your Portfolio Website with 
+You can Create Your Portfolio Website like this : [https://vaibhavhariaramani.github.io/](https://vaibhavhariaramani.github.io/) with 
 # Following steps :
 ## step 1 : Creating a repository for your site
 1.) create New repository.
@@ -22,7 +22,7 @@ Before you can create your site, you must [download this repository](https://git
 On GitHub,make your repository is created by navigating to your site's repository.
 
 ## step 3: Making Changes to Template
-1.) open portfolio-template Directory in [Visual Studio Code Editor](https://code.visualstudio.com/download) or in Your Favourite Editor.
+1.) open your portfolio-template Directory which you have downloaded in previous step in [Visual Studio Code Editor](https://code.visualstudio.com/download) or in Your Favourite Editor.
 
 <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img1.png" width="450"/>
 
