@@ -8,11 +8,11 @@ You can Create Your Portfolio Website with
 
 2.) Type a name for your repository and an optional description. If you're creating a user or organization site, your repository must be named <user>.github.io or <organization>.github.io. For more information, see "[About GitHub Pages.](https://help.github.com/en/articles/about-github-pages#types-of-github-pages-sites)"
   
-  <img src="https://help.github.com/assets/images/help/pages/create-repository-name-pages.png" width="350">
+  <img src="https://help.github.com/assets/images/help/pages/create-repository-name-pages.png" width="180">
   
 3.) Choose a repository visbility. For more information, see "[About repository visibility.](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-repository-visibility)"
 
-  <img src="https://help.github.com/assets/images/help/repository/create-repository-public-private.png" width="250"/>
+  <img src="https://help.github.com/assets/images/help/repository/create-repository-public-private.png" width="180"/>
   
 4.) Click Create repository.
   
@@ -23,7 +23,7 @@ On GitHub,make your repository is created by navigating to your site's repositor
 
 ## step 3: Making Changes to Template
 1.) open portfolio-template Directory in [Visual Studio Code Editor](https://code.visualstudio.com/download) or in Your Favourite Editor
-<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img1.png" width="250"/>
+<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img1.png" width="180"/>
 2.) Make some changes to files
 change Title from [Vaibhav's PortFolio] to [Your Name]
-<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img2.png">
+<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img2.png" width="180"/>
