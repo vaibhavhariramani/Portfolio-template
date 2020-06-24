@@ -50,7 +50,7 @@ iii) **Website:**                                vi) **Your Degree**
 
 7.) In **======= Skills Section =======** change language according to your skills
 
-<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img5.png">
+<img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img6.png">
               
 # Resources 
 
