@@ -51,7 +51,16 @@ iii) **Website:**________________________________vi) **Your Degree**
 7.) In **======= Skills Section =======** change language according to your skills
 
 <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img6.png">
-              
+
+8.) Edit **======= Resume Section =======** according to your info
+9.) Edit **======= Contact Section =======** 
+
+## step 4: Time to publish
+Now,You have to upload these files using **GIT** Method to your Repositories.
+
+## …and you're done!
+Fire up a browser and go to https://username.github.io.
+
 # Resources 
 
 To learn more about these Resources you can Refer to some of these articles written by Me:-
