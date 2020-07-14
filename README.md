@@ -53,6 +53,7 @@ iii) **Website:**________________________________vi) **Your Degree**
 <img src="https://github.com/vaibhavhariaramani/Portfolio-template/blob/master/images/img6.png">
 
 8.) Edit **======= Resume Section =======** according to your info
+
 9.) Edit **======= Contact Section =======** 
 
 ## step 4: Time to publish
@@ -66,6 +67,10 @@ Fire up a browser and go to https://username.github.io.
 To learn more about these Resources you can Refer to some of these articles written by Me:-
 
 https://sites.google.com/view/geeky-traveller/
+
+### Don't forget to tag us
+
+if you use this repo in  your project don't forget to mention us as Contributer in it . And Don't forget to tag us [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/),[instagram](https://www.instagram.com/geeky_baba_/?hl=en),[facebook] (https://www.facebook.com/jayesh.hariramani.3),[twitter] (https://www.linkedin.com/in/vaibhav-hariramani-087488186/),[Github](https://github.com/vaibhavhariaramani) 
 
 ### Made with ❤️by Vaibhav Hariramani
 #### About me
